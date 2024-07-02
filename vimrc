@@ -5,7 +5,7 @@ set softtabstop=4
 set autoindent 
 set smartindent
 set termguicolors
-colorscheme darkblue
+colorscheme peachpuff
 set number
 set mouse=a
 let mapleader = " "
